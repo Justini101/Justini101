@@ -1,5 +1,5 @@
 - ✨ howdy, I’m @justini101! ✨
-- 💗 interests: artificial intelligence, data analysis, and game development 💗
+- ✨ interests: artificial intelligence, data analysis, and game development ✨
 - ✨ currently: a university student studying computer science (and potentially neuroscience)!! ✨
 
 <!---
