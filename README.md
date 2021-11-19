@@ -1,4 +1,4 @@
-- Howdy, I’m @Justini101 !
+- Howdy, I’m @justini101 !
 - I’m interested in artificial intelligence, data analysis, and game development
 - I’m currently a university student studying computer science (and potentially neuroscience) !
 
